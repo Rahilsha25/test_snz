@@ -1,0 +1,7 @@
+1. city landscape in background (hero section)
+2. remove about us section from home
+
+
+about content:
+- what we do / what we don't
+ - unlock your future
